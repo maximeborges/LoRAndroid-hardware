@@ -1,6 +1,9 @@
 # LoRAndroid-hardware
 Hardware source files for LoRAndroid project
 
+<img src="./Images/LoRAndroid.svg" width="100%">
+<img src="./Images/LoRAndroid-brd.svg" width="100%">
+
 ## Get my symbols, footprints and 3D packages
 
 Since not all my symbols, footprints and 3D package have been merged into the official repos yet, here are my forks that follows the `master` of each official repo (synces every hours using Github `Pull` app).
