@@ -1,6 +1,7 @@
 # LoRAndroid-hardware
 Hardware source files for LoRAndroid project
 
+<img src="./Images/LoRAndroid-3D-board.png" width="100%">
 <img src="./Images/LoRAndroid.svg" width="100%">
 <img src="./Images/LoRAndroid-brd.svg" width="100%">
 
